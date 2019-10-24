@@ -55,14 +55,6 @@ npm run build
 
 ## Run test
 ```bash
-// Build mode
-npm run unit:single
-
-// Dev mode
-npm run unit:watch
-```
-
-## Generate documentation
-```bash
-npm run jsdoc
+// unit
+npm run unit
 ```
